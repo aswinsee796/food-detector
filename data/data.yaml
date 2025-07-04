@@ -1,0 +1,6 @@
+train: /Users/aswinsee796gmail.com/Documents/food-detector-app/data/train/images
+val: /Users/aswinsee796gmail.com/Documents/food-detector-app/data/valid/images
+
+nc: 5
+names: ['good_day', 'kurkure', 'lays', 'maggi', 'parle_g']
+

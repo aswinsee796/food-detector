@@ -1,0 +1,109 @@
+{
+  "lays": {
+    "calories": 536,
+    "fat": "34g",
+    "carbs": "53g",
+    "protein": "6g"
+  },
+  "maggi": {
+    "calories": 69,
+    "fat": 0.5,
+    "carbs": 6.5,
+    "protein": 9.8,
+    "source": "OpenFoodFacts"
+  },
+  "parle_g": {
+    "calories": 454,
+    "fat": 13,
+    "carbs": 77.3,
+    "protein": 6.9,
+    "source": "OpenFoodFacts"
+  },
+  "yippe": {
+    "calories": 357,
+    "fat": 4,
+    "carbs": 70,
+    "protein": 12,
+    "source": "OpenFoodFacts"
+  },
+  "yippee": {
+    "calories": 459,
+    "fat": 20.1,
+    "carbs": 62.6,
+    "protein": 9,
+    "source": "OpenFoodFacts"
+  },
+  "milk_bikis": {
+    "calories": 459,
+    "fat": 13.5,
+    "carbs": 77,
+    "protein": 7.4,
+    "source": "OpenFoodFacts"
+  },
+  "milk bikis ": {
+    "calories": 459,
+    "fat": 13.5,
+    "carbs": 77,
+    "protein": 7.4,
+    "source": "OpenFoodFacts"
+  },
+  "sting": {
+    "calories": 42,
+    "fat": 0,
+    "carbs": "N/A",
+    "protein": 0,
+    "source": "OpenFoodFacts"
+  },
+  "original taste \u2013 coca-cola \u2013 1 l": {
+    "calories": 42,
+    "fat": 0,
+    "carbs": 10.6,
+    "protein": 0,
+    "source": "OpenFoodFacts"
+  },
+  "kurkure": {
+    "calories": 552,
+    "fat": 33.6,
+    "carbs": 56.4,
+    "protein": 6,
+    "source": "OpenFoodFacts"
+  },
+  "top ramen": {
+    "calories": 447,
+    "fat": 16.5,
+    "carbs": 63.5,
+    "protein": 10.6,
+    "source": "OpenFoodFacts"
+  },
+  "complan": {
+    "calories": "N/A",
+    "fat": "N/A",
+    "carbs": "N/A",
+    "protein": "N/A",
+    "source": "OpenFoodFacts"
+  },
+  "tiger biscuit": {
+    "calories": "N/A",
+    "fat": "N/A",
+    "carbs": "N/A",
+    "protein": "N/A",
+    "source": "OpenFoodFacts",
+    "actual_product_name": "Tiger glucose biscuit"
+  },
+  "chyawanprash dabur": {
+    "calories": "N/A",
+    "fat": 0,
+    "carbs": 11,
+    "protein": 0,
+    "source": "OpenFoodFacts",
+    "actual_product_name": "Chyawanprash"
+  },
+  "tiger glucose biscuit": {
+    "calories": "N/A",
+    "fat": "N/A",
+    "carbs": "N/A",
+    "protein": "N/A",
+    "source": "OpenFoodFacts",
+    "actual_product_name": "Tiger glucose biscuit"
+  }
+}
